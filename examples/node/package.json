@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "analytics-node": "^6.2.0",
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }, "scripts": {
+    "start": "node server.js"
+  }
+}
